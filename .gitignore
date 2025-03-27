@@ -9,3 +9,4 @@ Functions.c
 menu_designs
 src/save/
 src/users.csv
+*.csv
